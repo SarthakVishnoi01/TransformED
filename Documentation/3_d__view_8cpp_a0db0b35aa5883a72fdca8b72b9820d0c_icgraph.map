@@ -1,0 +1,8 @@
+<map id="drawtext1" name="drawtext1">
+<area shape="rect" id="node2" href="$3_d__view_8cpp.html#ae264496e8d4cf326fca187cc44bde73c" title="draw3" alt="" coords="132,5,188,32"/>
+<area shape="rect" id="node3" href="$3_d__view_8cpp.html#a5ae730bf155322af402f2f4b2dfcd54d" title="display3" alt="" coords="236,5,307,32"/>
+<area shape="rect" id="node4" href="$common_8h.html#a3f53140178bb83d8b2c6b0eb49415350" title="call_3D_view" alt="" coords="355,5,451,32"/>
+<area shape="rect" id="node5" href="$toplevel_8cpp.html#ab4b13c9dd455e00b776b44c967b99c1a" title="view_object_pressed" alt="" coords="499,5,640,32"/>
+<area shape="rect" id="node6" href="$toplevel_8cpp.html#a47e3fecef290c4198079927fb44e0539" title="Take_projections_pressed" alt="" coords="688,5,861,32"/>
+<area shape="rect" id="node7" href="$toplevel_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="909,5,960,32"/>
+</map>
