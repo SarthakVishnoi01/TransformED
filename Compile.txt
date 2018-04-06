@@ -1,0 +1,7 @@
+g++ -c toplevel.cpp 3D_to_2D.cpp 2D_view.cpp 3D_view.cpp 2D_to_3D.cpp `pkg-config --libs --cflags gtk+-3.0` -lGL -lGLU -lglut -lm
+
+
+g++ toplevel.o 3D_to_2D.o 2D_view.o 3D_view.o 2D_to_3D.o `pkg-config --libs --cflags gtk+-3.0` -lGL -lGLU -lglut -lm
+
+
+./a.out
