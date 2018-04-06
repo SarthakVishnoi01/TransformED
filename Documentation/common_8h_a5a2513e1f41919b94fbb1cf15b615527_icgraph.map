@@ -1,0 +1,14 @@
+<map id="timer" name="timer">
+<area shape="rect" id="node2" href="$common_8h.html#a63ef6edef44b326429f38889159b56e4" title="call_2D_t0_3D" alt="" coords="104,35,211,61"/>
+<area shape="rect" id="node4" href="$common_8h.html#a0ee9f93b90299d0da26f44b4239be0d2" title="call_2D_view" alt="" coords="109,113,205,140"/>
+<area shape="rect" id="node8" href="$common_8h.html#acec997a638a8a076c36eb7c6662a29e3" title="call_3D_to_2D" alt="" coords="104,171,211,197"/>
+<area shape="rect" id="node12" href="$common_8h.html#a3f53140178bb83d8b2c6b0eb49415350" title="call_3D_view" alt="" coords="109,233,205,260"/>
+<area shape="rect" id="node3" href="$toplevel_8cpp.html#a16285e6bf90d04ecb01570992be9331e" title="construct_wireframe" alt="" coords="274,5,413,32"/>
+<area shape="rect" id="node5" href="$toplevel_8cpp.html#a2271f7a9ae1fa92853f1b2ca2852dd93" title="view_drawing_1" alt="" coords="288,56,399,83"/>
+<area shape="rect" id="node6" href="$toplevel_8cpp.html#aa6796812d3a609dd097fa689186605b7" title="view_drawing_2" alt="" coords="288,107,399,133"/>
+<area shape="rect" id="node7" href="$toplevel_8cpp.html#a9f96823e70d2964cfcee25441061b35d" title="view_drawing_3" alt="" coords="288,157,399,184"/>
+<area shape="rect" id="node9" href="$toplevel_8cpp.html#abc65f14017bedfa63f6b65720fc7afae" title="view_projections_pressed" alt="" coords="259,208,428,235"/>
+<area shape="rect" id="node10" href="$toplevel_8cpp.html#a47e3fecef290c4198079927fb44e0539" title="Take_projections_pressed" alt="" coords="476,233,649,260"/>
+<area shape="rect" id="node11" href="$toplevel_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="697,233,748,260"/>
+<area shape="rect" id="node13" href="$toplevel_8cpp.html#ab4b13c9dd455e00b776b44c967b99c1a" title="view_object_pressed" alt="" coords="273,259,414,285"/>
+</map>
